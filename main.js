@@ -35,7 +35,7 @@ console.log(myObj)
 
 // decimal2
 let decimal2 = myNum.toFixed(2);
-document.write("LEVEL: 2"+ "<br>" + "myNum.toFixed(2)" + decimal2 + "<br>");
+document.write("LEVEL: 2"+ "<br>" + "myNum.toFixed(2): " + decimal2 + "<br>");
 console.log(decimal2)
 
 /*
